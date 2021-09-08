@@ -32,4 +32,4 @@ jobs:
 
       - name: Execute
         run: |
-            java HelloWorld
+            java HelloWorld.java
